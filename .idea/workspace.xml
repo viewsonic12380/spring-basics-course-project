@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ef9ac9cf-ff8b-47cd-b081-d60ff6315e6f" name="Default Changelist" comment="" />
+    <list default="true" id="ef9ac9cf-ff8b-47cd-b081-d60ff6315e6f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -84,6 +86,8 @@
       <option name="presentableId" value="Default" />
       <updated>1592229661110</updated>
       <workItem from="1592229663028" duration="4354000" />
+      <workItem from="1592657868424" duration="1252000" />
+      <workItem from="1592665181757" duration="287000" />
     </task>
     <task id="LOCAL-00001" summary="Made in pom file&#10;&lt;build&gt;&#10;&#9;&#9;&lt;plugins&gt;&#10;&#9;&#9;&#9;&lt;plugin&gt;&#10;&#9;&#9;&#9;&#9;&lt;groupId&gt;org.apache.maven.plugins&lt;/groupId&gt;&#10;&#9;&#9;&#9;&#9;&lt;artifactId&gt;maven-compiler-plugin&lt;/artifactId&gt;&#10;&#9;&#9;&#9;&#9;&lt;configuration&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;source&gt;6&lt;/source&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;target&gt;6&lt;/target&gt;&#10;&#9;&#9;&#9;&#9;&lt;/configuration&gt;&#10;&#9;&#9;&#9;&lt;/plugin&gt;&#10;&#9;&#9;&lt;/plugins&gt;&#10;&#9;&lt;/build&gt;">
       <created>1592232298671</created>
@@ -106,7 +110,14 @@
       <option name="project" value="LOCAL" />
       <updated>1592232556048</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Made in pom file&#10;&lt;build&gt;&#10;&#9;&#9;&lt;plugins&gt;&#10;&#9;&#9;&#9;&lt;plugin&gt;&#10;&#9;&#9;&#9;&#9;&lt;groupId&gt;org.apache.maven.plugins&lt;/groupId&gt;&#10;&#9;&#9;&#9;&#9;&lt;artifactId&gt;maven-compiler-plugin&lt;/artifactId&gt;&#10;&#9;&#9;&#9;&#9;&lt;configuration&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;source&gt;6&lt;/source&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;target&gt;6&lt;/target&gt;&#10;&#9;&#9;&#9;&#9;&lt;/configuration&gt;&#10;&#9;&#9;&#9;&lt;/plugin&gt;&#10;&#9;&#9;&lt;/plugins&gt;&#10;&#9;&lt;/build&gt;">
+      <created>1592307119594</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1592307119594</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -129,42 +140,42 @@
     <option name="LAST_COMMIT_MESSAGE" value="Made in pom file&#10;&lt;build&gt;&#10;&#9;&#9;&lt;plugins&gt;&#10;&#9;&#9;&#9;&lt;plugin&gt;&#10;&#9;&#9;&#9;&#9;&lt;groupId&gt;org.apache.maven.plugins&lt;/groupId&gt;&#10;&#9;&#9;&#9;&#9;&lt;artifactId&gt;maven-compiler-plugin&lt;/artifactId&gt;&#10;&#9;&#9;&#9;&#9;&lt;configuration&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;source&gt;6&lt;/source&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;target&gt;6&lt;/target&gt;&#10;&#9;&#9;&#9;&#9;&lt;/configuration&gt;&#10;&#9;&#9;&#9;&lt;/plugin&gt;&#10;&#9;&#9;&lt;/plugins&gt;&#10;&#9;&lt;/build&gt;" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592230866129">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592658523296">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1592230866129" />
-    <state x="498" y="202" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1592230821312">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1592658523296" />
+    <state x="498" y="202" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1592658510000">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="498" y="202" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1592230821312" />
-    <state x="339" y="0" key="CommitChangelistDialog2" timestamp="1592232554746">
+    <state x="498" y="202" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1592658510000" />
+    <state x="339" y="0" key="CommitChangelistDialog2" timestamp="1592307118475">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="339" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1592232554746" />
-    <state width="896" height="245" key="GridCell.Tab.0.bottom" timestamp="1592301381674">
+    <state x="339" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1592307118475" />
+    <state width="896" height="245" key="GridCell.Tab.0.bottom" timestamp="1592307183565">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="896" height="245" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1592301381674" />
-    <state width="896" height="245" key="GridCell.Tab.0.center" timestamp="1592301381674">
+    <state width="896" height="245" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1592307183565" />
+    <state width="896" height="245" key="GridCell.Tab.0.center" timestamp="1592307183565">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="896" height="245" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1592301381674" />
-    <state width="896" height="245" key="GridCell.Tab.0.left" timestamp="1592301381674">
+    <state width="896" height="245" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1592307183565" />
+    <state width="896" height="245" key="GridCell.Tab.0.left" timestamp="1592307183565">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="896" height="245" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1592301381674" />
-    <state width="896" height="245" key="GridCell.Tab.0.right" timestamp="1592301381674">
+    <state width="896" height="245" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1592307183565" />
+    <state width="896" height="245" key="GridCell.Tab.0.right" timestamp="1592307183565">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="896" height="245" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1592301381674" />
-    <state x="249" y="0" key="SettingsEditor" timestamp="1592232756488">
+    <state width="896" height="245" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1592307183565" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1592657908050">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1592232756488" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1592303685396">
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1592657908050" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1592307139288">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1592303685396" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1592307139288" />
     <state x="503" y="125" key="git4idea.branch.GitSmartOperationDialog" timestamp="1592232167956">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
