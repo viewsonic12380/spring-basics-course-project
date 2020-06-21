@@ -50,14 +50,15 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.28965518" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
   </component>
   <component name="RunManager">
@@ -87,7 +88,8 @@
       <updated>1592229661110</updated>
       <workItem from="1592229663028" duration="4354000" />
       <workItem from="1592657868424" duration="1252000" />
-      <workItem from="1592665181757" duration="287000" />
+      <workItem from="1592665181757" duration="1240000" />
+      <workItem from="1592712334918" duration="110000" />
     </task>
     <task id="LOCAL-00001" summary="Made in pom file&#10;&lt;build&gt;&#10;&#9;&#9;&lt;plugins&gt;&#10;&#9;&#9;&#9;&lt;plugin&gt;&#10;&#9;&#9;&#9;&#9;&lt;groupId&gt;org.apache.maven.plugins&lt;/groupId&gt;&#10;&#9;&#9;&#9;&#9;&lt;artifactId&gt;maven-compiler-plugin&lt;/artifactId&gt;&#10;&#9;&#9;&#9;&#9;&lt;configuration&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;source&gt;6&lt;/source&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;target&gt;6&lt;/target&gt;&#10;&#9;&#9;&#9;&#9;&lt;/configuration&gt;&#10;&#9;&#9;&#9;&lt;/plugin&gt;&#10;&#9;&#9;&lt;/plugins&gt;&#10;&#9;&lt;/build&gt;">
       <created>1592232298671</created>
@@ -117,7 +119,21 @@
       <option name="project" value="LOCAL" />
       <updated>1592307119594</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Made in pom file&#10;&lt;build&gt;&#10;&#9;&#9;&lt;plugins&gt;&#10;&#9;&#9;&#9;&lt;plugin&gt;&#10;&#9;&#9;&#9;&#9;&lt;groupId&gt;org.apache.maven.plugins&lt;/groupId&gt;&#10;&#9;&#9;&#9;&#9;&lt;artifactId&gt;maven-compiler-plugin&lt;/artifactId&gt;&#10;&#9;&#9;&#9;&#9;&lt;configuration&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;source&gt;6&lt;/source&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;target&gt;6&lt;/target&gt;&#10;&#9;&#9;&#9;&#9;&lt;/configuration&gt;&#10;&#9;&#9;&#9;&lt;/plugin&gt;&#10;&#9;&#9;&lt;/plugins&gt;&#10;&#9;&lt;/build&gt;">
+      <created>1592665481997</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1592665481997</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Made in pom file&#10;&lt;build&gt;&#10;&#9;&#9;&lt;plugins&gt;&#10;&#9;&#9;&#9;&lt;plugin&gt;&#10;&#9;&#9;&#9;&#9;&lt;groupId&gt;org.apache.maven.plugins&lt;/groupId&gt;&#10;&#9;&#9;&#9;&#9;&lt;artifactId&gt;maven-compiler-plugin&lt;/artifactId&gt;&#10;&#9;&#9;&#9;&#9;&lt;configuration&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;source&gt;6&lt;/source&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;target&gt;6&lt;/target&gt;&#10;&#9;&#9;&#9;&#9;&lt;/configuration&gt;&#10;&#9;&#9;&#9;&lt;/plugin&gt;&#10;&#9;&#9;&lt;/plugins&gt;&#10;&#9;&lt;/build&gt;">
+      <created>1592665517991</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1592665517991</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -140,18 +156,22 @@
     <option name="LAST_COMMIT_MESSAGE" value="Made in pom file&#10;&lt;build&gt;&#10;&#9;&#9;&lt;plugins&gt;&#10;&#9;&#9;&#9;&lt;plugin&gt;&#10;&#9;&#9;&#9;&#9;&lt;groupId&gt;org.apache.maven.plugins&lt;/groupId&gt;&#10;&#9;&#9;&#9;&#9;&lt;artifactId&gt;maven-compiler-plugin&lt;/artifactId&gt;&#10;&#9;&#9;&#9;&#9;&lt;configuration&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;source&gt;6&lt;/source&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;target&gt;6&lt;/target&gt;&#10;&#9;&#9;&#9;&#9;&lt;/configuration&gt;&#10;&#9;&#9;&#9;&lt;/plugin&gt;&#10;&#9;&#9;&lt;/plugins&gt;&#10;&#9;&lt;/build&gt;" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592658523296">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592665744556">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1592658523296" />
-    <state x="498" y="202" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1592658510000">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1592665744556" />
+    <state x="498" y="202" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1592665683276">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="498" y="202" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1592658510000" />
-    <state x="339" y="0" key="CommitChangelistDialog2" timestamp="1592307118475">
+    <state x="498" y="202" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1592665683276" />
+    <state x="464" y="31" key="#tkach_config123" timestamp="1592665453970">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="339" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1592307118475" />
+    <state x="464" y="31" key="#tkach_config123/0.0.1536.824@0.0.1536.824" timestamp="1592665453970" />
+    <state x="339" y="0" key="CommitChangelistDialog2" timestamp="1592665516292">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="339" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1592665516292" />
     <state width="896" height="245" key="GridCell.Tab.0.bottom" timestamp="1592307183565">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -168,17 +188,21 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="896" height="245" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1592307183565" />
-    <state x="249" y="0" key="SettingsEditor" timestamp="1592657908050">
+    <state x="249" y="0" key="SettingsEditor" timestamp="1592712443960">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1592657908050" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1592307139288">
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1592712443960" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1592665526392">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1592307139288" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1592665526392" />
     <state x="503" y="125" key="git4idea.branch.GitSmartOperationDialog" timestamp="1592232167956">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="503" y="125" key="git4idea.branch.GitSmartOperationDialog/0.0.1536.824@0.0.1536.824" timestamp="1592232167956" />
+    <state x="449" y="95" key="spring file set editor" timestamp="1592712410647">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="95" key="spring file set editor/0.0.1536.824@0.0.1536.824" timestamp="1592712410647" />
   </component>
 </project>
